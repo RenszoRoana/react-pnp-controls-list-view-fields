@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "react-pnp-controls-list-view-fields-client-side-solution",
+    "id": "e88af2bc-c719-4ff6-99b1-db77e198f2cb",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "react-pnp-controls-list-view-fields description"
+      },
+      "longDescription": {
+        "default": "react-pnp-controls-list-view-fields description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "react-pnp-controls-list-view-fields Feature",
+        "description": "The feature that activates elements of the react-pnp-controls-list-view-fields solution.",
+        "id": "e13c735f-d004-45b9-934d-5f67f82abe8b",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/react-pnp-controls-list-view-fields.sppkg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.0",
+    "libraryName": "react-pnp-controls-list-view-fields",
+    "libraryId": "e88af2bc-c719-4ff6-99b1-db77e198f2cb",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "react-pnp-controls-list-view-fields",
+    "solutionShortDescription": "react-pnp-controls-list-view-fields description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
